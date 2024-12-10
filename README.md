@@ -14,8 +14,6 @@
 
 # SUPPORT ME -- 🚩💲🙏
 
-
-
 ### 🔑 Finding my VMware ESXi License Keys repo helpful? It offers free evaluation or permanent local licenses for VMware products like vCenter and ESXi, enabling practice without any investment. I've dedicated significant time to researching, testing, and maintaining these keys to ensure they're reliable and secure. If you appreciate my effort, consider supporting me with a coffee ☕️ or your best wishes. Your encouragement keeps this resource going! 🙏🙏
 
 <a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
